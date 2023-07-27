@@ -65,8 +65,7 @@ Dosya yüklenmesi için aşağıda belirtilen yeni dosya ekle butonuna tıklanar
 
  ![image](https://github.com/Umutyasar1/Cloudewer.js.sdk/assets/65557830/af399499-e605-4c11-af65-dce25dd362d0)
 
-## Dosya silme düzenleme işlemlerinde de aynı şekilde post mesajlarına erişebilirsiniz.
-## Klasör ekleme de ve klasör seçmede post mesajlara erişebilirsiniz
+## Dosya silme düzenleme işlemlerinde, Klasör ekleme de ve klasör seçmede de aynı şekilde post mesajlarına erişebilirsiniz.
 
 ![image](https://github.com/Umutyasar1/Cloudewer.js.sdk/assets/65557830/f2adf935-65e8-43ee-af2f-e08d7275ce23)
 
