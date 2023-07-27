@@ -59,7 +59,7 @@ Bu şekilde arzum klasörünün içerisine ürünler klasörünü eklemiş bulun
 ![image](https://github.com/Umutyasar1/Cloudewer.js.sdk/assets/65557830/5884cf20-dde8-4dee-8ef1-005895b0d8e1)
 
  
-## Dosya yüklenmesi için aşağıda belirtilen yeni dosya ekle butonuna tıklanarak açılan modal da dosya yüklemesi gerçekleştirebilir eğer ki bir klasör de yer almasını istiyorsanız aşağıda sizlerin eklemiş olduğunuz klasörleri bir ağaç yapısı şeklinde listeleyerek seçebilir ve dosya yüklemesi gerçekleştirebilirsiniz.
+Dosya yüklenmesi için aşağıda belirtilen yeni dosya ekle butonuna tıklanarak açılan modal da dosya yüklemesi gerçekleştirebilir eğer ki bir klasör de yer almasını istiyorsanız aşağıda sizlerin eklemiş olduğunuz klasörleri bir ağaç yapısı şeklinde listeleyerek seçebilir ve dosya yüklemesi gerçekleştirebilirsiniz.
 
 ## Seçmek istediğiniz dosyanın üzerine çift tıklayarak post message ile dosyanın detaylarına erişebilirsiniz
 
