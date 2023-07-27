@@ -38,15 +38,14 @@ window.addEventListener('load', function() {
 
 Main js’den dönen url ile iframe url ekleyerek cloudewer filemanager geliştirmesini kullanmaya başlayabilirsiniz.
 
-
-Filemanager geliştirmesini aşağıda detaylıca inceleyebilirsiniz.
+### Filemanager geliştirmesini aşağıda detaylıca inceleyebilirsiniz.
 
 ## Klasör ekleme sayfası 
   
 ![image](https://github.com/Umutyasar1/Cloudewer.js.sdk/assets/65557830/1e37a11a-f2d6-424e-903f-dea30d5c72a0)
 
  
-Varolan klasörün içerisine klasör eklemek için klasör üzerine hızlıca sağ tıklayarak açılan pencerede klasör ekleyebilirsiniz.
+## Varolan klasörün içerisine klasör eklemek için klasör üzerine hızlıca sağ tıklayarak açılan pencerede klasör ekleyebilirsiniz.
   
 ![image](https://github.com/Umutyasar1/Cloudewer.js.sdk/assets/65557830/0bbbefc4-72aa-4abb-920e-c3bd88e85634)
 
