@@ -2,9 +2,9 @@ window.addEventListener('load', function() {
     var url = '';
     url = Cloudewer.options({
         protocol: 'https',
-        token: 'N2MyNjQ0ODU2YWQ1ZTk1ZA==',
-        domain: 'umut.cloudewer.com',
-        lang: 'tr',
+        token: '', // Login işlemi sağladıktan sonra oluşan token  
+        domain: '', // Cloudewer domain bilginiz
+        lang: '', // iframe dil seçimi (tr,en)
     });
 
     Cloudewer.eventListener(function (eventName, data) {
