@@ -7,7 +7,7 @@ Cloudewer projemizde yapılmış olan fileManager geliştirmemizde kullanılmak 
 ![image](https://github.com/Umutyasar1/Cloudewer.js.sdk/assets/65557830/5824e88c-ebdd-49eb-9226-eb5a32920754)
  
 
-Oluşturulan token ile birlikte oluşturmuş olduğunuz html dosyasında öncelikle cloudewer.sdk.min.js dosyasını import etmeniz gerekmektedir.
+Oluşturulan token ile birlikte oluşturmuş olduğunuz html dosyasında öncelikle ### cloudewer.sdk.min.js dosyasını import etmeniz gerekmektedir.
 
 Yeni geliştirmeleri direkt kullanım sağlamak için aşağıdaki url import etmeniz daha sağlıklı olacaktır.
 ### Url
